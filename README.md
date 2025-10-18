@@ -74,7 +74,7 @@ node index.js
 
 Backend GitHub Repo: https://github.com/yashwanth843/StoreProject-Backend
 
-Live Frontend Deployment: https://store-rating-rating-project.netlify.app
+Live Frontend Deployment: https://rating-store.netlify.app
 
 live server link: https://storeproject-backend.onrender.com
 
