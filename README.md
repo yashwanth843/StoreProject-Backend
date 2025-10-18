@@ -2,7 +2,7 @@ Store Project Backend
 
 A Node.js + Express + SQLite3 backend for managing users, stores, ratings, and authentication. Built with JWT-based authentication and role-based access control (ADMIN, OWNER, USER). Designed to work seamlessly with the Store Project frontend.
 
-Features
+Features:
 
 User signup, login, and JWT authentication
 
