@@ -77,6 +77,7 @@ Backend GitHub Repo: https://github.com/yashwanth843/StoreProject-Backend
 Live Frontend Deployment: https://rating-store.netlify.app
 
 live server link: https://storeproject-backend.onrender.com
+Google Drive Link: https://drive.google.com/file/d/11vuwpSiogyYDQ9oY1VIQDJubUwCk5vdq/view?usp=sharing
 
 API Endpoints
 Authentication
